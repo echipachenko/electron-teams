@@ -24,7 +24,7 @@ Now you can download the ubuntu version:
 First you need to clone this repo, for example:
 
 ```bash
-git clone https://github.com/leftstick/teams-ubuntu.git
+git clone https://github.com/echipachenko/teams-ubuntu.git
 ```
 
 Then, install dependencies
