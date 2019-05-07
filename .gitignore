@@ -3,6 +3,8 @@
 *.iws
 *.iml
 
+dist/
+
 #npm
 node_modules/
 

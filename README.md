@@ -1,5 +1,6 @@
 teams-ubuntu
 ==================
+[![Build Status](https://travis-ci.org/echipachenko/electron-teams.svg?branch=master)](https://travis-ci.org/echipachenko/electron-teams)
 ![][david-url]
 ![][license-url]
 
@@ -15,9 +16,7 @@ That's weird, but ok we don't mind. [electron](http://electron.atom.io/) helps.
 
 Now you can download the ubuntu version: 
 
-[Microsoft-Teams-2.0-linux-64](releases/download/2.0/Microsoft-Teams-linux-x64.zip)
-
-[Microsoft-Teams-2.0.linux-32](releases/download/2.0/Microsoft-Teams-linux-ia32.zip)
+[Microsoft-Teams-2.0.1-linux-64](releases/2.0.1/Microsoft-Teams-linux-x64.zip)
 
 ## Want to contribute?
 
